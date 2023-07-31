@@ -1,0 +1,29 @@
+.helpR {
+    font-size: 50px;
+   margin: 10px;
+     }
+
+  .para {
+    line-height: 1.5;
+    padding: 20px;
+    font-size: 20px;
+    width: 90%;
+  }
+  
+  .Frequent {
+    font-size: 30px;
+  }
+  
+  .questions {
+    font-size: 18px;
+    width: 90%;
+    margin: 5%;
+  }
+  
+  .questions h3 {
+    margin: 30px;
+  }
+  .footer{
+    width: 99%;
+    height: 20%;
+  }

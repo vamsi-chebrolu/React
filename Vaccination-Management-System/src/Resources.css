@@ -1,0 +1,38 @@
+.ResApp {
+    text-align: center;
+  }
+  .ResApp-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 60px;
+    color: rgb(8, 8, 8);
+  }
+  .Rescard-container {
+    display: flex;
+    justify-content: space-around;
+  }
+  .Resservices-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+  }
+  .Resservice {
+    border: 1px solid rgb(255, 253, 253);
+    border-radius: 5px;
+    padding: 5px;
+    width: 210px;
+    text-align: center;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  .Resservice:nth-of-type(odd){
+    background-color: rgb(252, 252, 252);
+    color: rgb(60, 87, 88);
+  }
+  .Resservice:nth-of-type(even){
+    background-color: rgb(140, 241, 207);
+  }
+  

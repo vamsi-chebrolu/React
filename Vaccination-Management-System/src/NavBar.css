@@ -1,0 +1,9 @@
+.navbar{
+    background-color: aquamarine;
+    height: 50px;
+    text-align: right;
+}
+.navmenu{
+    font-size: larger;
+    font-weight: 500;
+}

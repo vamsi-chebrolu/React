@@ -1,0 +1,71 @@
+.register-container {
+    background-image: url('https://images.unsplash.com/photo-1618015358954-344302f421a4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=876&q=80');
+    background-size: cover;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    padding: 25px;
+    bottom: 30px;
+  }
+  .regiterBackButton{
+    bottom: 25px;
+    padding: 10px 30px;
+    background-color: #007bff;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
+  }
+  .register-form {
+    margin: auto;
+    display: auto;
+    background-color: #ffffff;
+    margin-top: 25px;
+    width: 400px ;
+    padding: 10px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+  }
+
+  .register-form h1 {
+    margin-bottom: 25px;
+  }
+ 
+  .register-form .input-field {
+    margin-bottom: 20px;
+    height: 25px;
+  }
+   
+  .register-form input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+    
+  .register-form button {
+    bottom: 25px;
+    padding: 10px 30px;
+    background-color: #007bff;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
+  }
+  .register-form a {
+    color: #007bff;
+    text-decoration: none;
+    margin-top: 2px;
+  }
+  
+  .register-form .error-message {
+    color: red;
+    margin-bottom: 5px;
+  }
+  
+  .register-form h3 {
+    color: green;
+    margin-top: 20px;
+  } 

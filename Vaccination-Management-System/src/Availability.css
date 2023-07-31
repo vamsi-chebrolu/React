@@ -1,0 +1,33 @@
+.AvailSelect{
+    border-radius: 10px ;
+    height: 40px;
+    width: 170px;
+    margin-left: 20px;
+    padding: 2px;
+    font-size: 17px;
+    font-weight: 400px;
+}
+.Avail label{
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.Avail2 p{
+    font-size: large;
+    margin: 15px 0px;
+}
+.Avail2 h2{
+    font-size: xx-large;
+    margin: 15px 0px;
+    color: rgb(4, 169, 4);
+
+}
+.Avail2 h3{
+    font-size: x-large;
+    margin: 15px 0px;
+    color: rgb(216, 6, 6);
+
+}
+.avail h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}

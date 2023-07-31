@@ -1,0 +1,29 @@
+.FooterEnd{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f2f2f2;
+    height: 70px;
+    background-image: linear-gradient(to bottom, rgb(1, 17, 1), rgb(2, 66, 2));
+  }
+
+  .footerEnd-item {
+    display: inline-block;
+  }
+  
+  .footerEnd-item a {
+    margin-right: 70px;
+    text-decoration: none;
+    color:white;
+    gap: 30px;
+    font-weight: bold;
+  }
+  
+  .footerEnd-item img {
+    max-height: 50px; 
+  }
+
+  .footerEnd-item p {
+    color: white; 
+    margin-left: 30px;
+  }

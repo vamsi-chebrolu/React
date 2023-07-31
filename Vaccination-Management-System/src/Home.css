@@ -1,0 +1,121 @@
+.Home{
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:550px;
+    width: auto;
+    filter: brightness(0.8);
+}
+.Homenavbar{
+    background-color: rgb(68, 246, 187);
+    height: 60px;text-decoration: none;
+    font-size: larger;
+    text-align: right;
+}
+.Homenavmenu{
+    border: 0px solid  rgb(68, 246, 187);
+    background-color: rgb(68, 246, 187) ;
+    font-size: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    margin: 0% 0.2%;
+    padding: 5px  15px;
+    color: white;
+}
+.Homenavmenu:hover{
+    background-color: white;
+    color:rgb(68, 246, 187);
+    font-weight: 500px;
+}
+.button{
+    height: 35px;
+    font-size: large;
+    margin: 10px 10px 5px 50px ;
+    width: 100px;
+    border: 0px solid white;
+    border-radius: 15px;
+}
+.button:hover{
+    background-color: rgb(197, 244, 228);
+    color: rgb(0, 0, 0);
+}
+.bookyourslot{
+    margin: 0px 10px;
+    width: 100%;
+}
+.pic img{
+    width: 40%;
+    float: right;
+    height: 300px;
+}
+.rest{
+    display: inline-block;
+    margin-top: 8%;
+    margin-right: 10%;
+    width: 40%;
+    height: 300px;
+}
+.steps{
+    background-color: rgb(160, 253, 222);
+}
+.rest button{
+    border: 1px solid aquamarine;
+    background-color: aquamarine;
+    height: 50px;
+    width: 60%;
+    border-radius: 30px;
+    font-weight: 600;
+    font-size: larger;
+}
+.rest button:hover{
+    border: 1px solid rgb(195, 253, 230);
+    background-color: rgb(194, 241, 226);
+    height: 50px;
+    width: 60%;
+    border-radius: 30px;
+    font-size: larger;
+    color: rgb(30, 132, 98);
+    font-weight:bold;
+}
+.Home-header{
+    height: auto;
+    margin-bottom: 2px;
+}
+
+.HomeFirst{
+    width: 80%;
+    height: 100%;
+    float: left;
+    padding: 40px;
+    padding-top: 60px;
+}
+.HomeFirst h1{
+    font-size: 45px;
+    margin: 25px;
+}
+.HomeFirst h2{
+    font-size: 40px;
+    color: rgba(6, 137, 252, 0.668);
+    margin: 25px;
+}
+.HomeFirst button{
+    font-size: larger;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: aquamarine;
+    border:1px solid rgb(6, 249, 176);
+    margin-top: 25px;
+    height: 60px;
+    width: 250px;
+    box-shadow: 0 0 10px ;
+}
+.HomeFirst button:hover{
+    font-size: larger;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: aquamarine;
+    border:1px solid rgb(6, 249, 176);
+    margin-top: 25px;
+    height: 60px;
+    width: 250px;
+    box-shadow: 0 0 20px aquamarine;
+}

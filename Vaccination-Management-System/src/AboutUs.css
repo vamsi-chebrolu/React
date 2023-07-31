@@ -1,0 +1,56 @@
+.AboutApp {
+    text-align: center;
+  }
+  
+  .AboutApp-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  
+  .Aboutcard-container {
+    display: flex;
+    justify-content: center; /* Center the cards horizontally */
+    gap: 20px; /* Add a 20px gap between the cards */
+    margin-top: 20px; /* Add some top margin to the card container */
+  }
+  
+  .Aboutcard {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    width: 700px;
+    text-align: center;
+  }
+  
+  .Aboutcard img {
+    width: 700px;
+    height: 450px;
+    object-fit: cover;
+    border-radius: 5px;
+  }
+  .Aboutcard-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .Aboutcard-row {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 20px;
+  }
+  .Abouth2 {
+    margin-top: 10px;
+  }
+  .Abouth1 {
+    background-color: grey;
+    color:white;
+  }

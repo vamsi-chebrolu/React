@@ -1,0 +1,39 @@
+.update-user-form {
+  display: flex;
+  flex-direction: column;
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+.Updateinput-label {
+  font-weight: bold;
+  display: flex;
+}
+
+.Updatetext-input,
+.Updatetext-area-input {
+  padding: 8px;
+  margin: 5px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 100%;
+}
+
+.Updateerror-message{
+  color: red;
+}
+
+
+.Updatesubmit-button {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin-top: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.Updatesubmit-button:hover {
+  background-color: #45a049;
+}

@@ -1,0 +1,35 @@
+.footerTop {
+    background-color: #d9fcee;
+    color: black;
+    padding: 20px 0;
+    text-align: center;
+  }
+  .footer-container {
+    display: flex;
+    justify-content: space-around;
+  }
+  .footer-column {
+    flex: 1;
+    padding: 0 10px;
+  }
+  .footer h3 {
+    margin-bottom: 10px;
+  }
+  .footer ul {
+    list-style: none;
+    padding: 0;
+  }
+  .footer li {
+    margin-bottom: 5px;
+  }
+  .Flink li{
+    list-style-type: none;
+  }
+  .Flink a{
+    text-decoration: none;
+    color: rgb(8, 213, 145);
+    font-size: 17px;
+  }
+  li a:hover{
+    text-decoration:underline;
+  }

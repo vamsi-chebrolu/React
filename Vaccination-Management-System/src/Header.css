@@ -1,0 +1,28 @@
+.header {
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-image: linear-gradient(to bottom, rgb(1, 17, 1), rgb(2, 66, 2)); /* Use linear gradient for two colors */
+  }
+  
+  .logo {
+    height: 80px;
+    margin-left: 40px; 
+    }
+  
+  .links-container {
+    display: flex;
+    gap: 50px; /* Adjust the gap between links as needed */
+    margin-right: 50px;
+  }
+  .header-link {
+    text-decoration: none;
+    color: white; /* Set the link color to white */
+    font-weight: bold;
+  }
+  
+  /* Optional: Add hover styles to the links */
+  .header-link:hover {
+    color: #e0e0e0; /* Set the hover color to a slightly lighter shade of white */
+  }

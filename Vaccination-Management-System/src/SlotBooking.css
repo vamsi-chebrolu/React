@@ -1,0 +1,36 @@
+.BookSelect select{
+    height: 30px;
+    width: 200px;
+    border-radius: 10px;
+    font-size: 16px;
+    margin: 10px;
+}
+.BookSelect label{
+    font-size: large;
+}
+.BookSelect input{
+    height: 30px;
+    width: 170px;
+    border-radius: 10px;
+    font-size: large;
+    margin: 10px;
+}
+.BookSelect button{
+    height: 50px;
+    width: 120px;
+    border-radius: 20px;
+    font-size: larger;
+    margin: 10px;
+    color: rgb(1, 17, 12);
+    background-color: rgb(71, 247, 191);
+}
+.BookSelect button:hover{
+    height: 50px;
+    width: 120px;
+    border-radius: 20px;
+    font-weight: bold;
+    margin: 10px;
+    color: black;
+    background-color: rgb(206, 251, 236);
+    box-shadow: 0 0 30px rgb(88, 246, 214);
+}
